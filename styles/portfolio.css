@@ -60,6 +60,7 @@
     padding-left: 80px;
     padding-top: 45px;
     margin-left: 95px;
+    margin-bottom: 70px;
 }
 
 .contact-title {
@@ -73,4 +74,35 @@
     border: 0;
     padding: 15px 20px;
     border-radius: 5px;
+}
+.footer-section{
+    display: flex;
+    color: white;
+    background-color: black;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer-title{
+    font-size: 45px;
+    margin: 5px;
+}
+.social-icons{
+    display: flex;
+}
+.social-icon{
+    margin-right: 10px;
+}
+.email-box{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 35px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    display: block;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
 }
