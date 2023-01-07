@@ -1,7 +1,7 @@
 /* header styles */
 
 .header-section {
-    background-image: url(/images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
     height: 800px;
     display: flex;
     justify-content: right;
@@ -54,7 +54,7 @@
 }
 
 .contact {
-    background-image: url(/images/gradient2.png),url(/images/watch.png);
+    background-image: url(../images/gradient2.png),url(../images/watch.png);
     background-repeat: no-repeat;
     height: 300px;
     padding-left: 80px;
