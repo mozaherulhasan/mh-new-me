@@ -1,0 +1,26 @@
+/* header styles */
+
+.header-section {
+    background-image: url(/images/banner/banner1.png);
+    height: 800px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.header-body{
+text-align: right;
+margin-right: 100px;
+}
+
+.header-title{
+    font-size: 60px;
+    margin-bottom: 5px;
+}
+.btn-primary{
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 15px;
+}
